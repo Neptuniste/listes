@@ -4,6 +4,20 @@
         "listes": [
             {
                 "nom": "Calypso"
+                "animal": "Serpent des mers",
+                "liens": {
+                    "facebook": "https://www.facebook.com/profile.php?id=61573145785009",
+                    "web": "https://liste-calypso.fr/",
+                    "instagram": "https://www.instagram.com/liste_calypso/",
+                    "youtube": "https://www.youtube.com/@ListoNumeroUno",
+                    "tiktok": "https://www.tiktok.com/@liste.calypso"
+                },
+                "logo": "assets/logos/calypso.png",
+                "photo": "assets/photos/calypso.jpg",
+                "musique": "Flo Rida - Right Round",
+                "couleur": "#09157B",
+                "texte": "#ffffff"
+                
             },
             {
                 "nom": "Zephyra",
